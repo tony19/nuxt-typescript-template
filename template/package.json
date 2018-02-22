@@ -29,7 +29,7 @@
     "@types/jest": "^22.1.2",
     "@types/node": "^9.4.5",
     "@vue/test-utils": "^1.0.0-beta.11",
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^8.2.2",
     "babel-jest": "^22.2.2",
     "babel-preset-env": "^1.6.1",
     "babel-preset-es2015": "^6.24.1",
