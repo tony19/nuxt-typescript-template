@@ -7,7 +7,7 @@ A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template without th
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init tony19/vue-typescript-template my-project
+$ vue init tony19/nuxt-typescript-template my-project
 $ cd my-project
 # install dependencies
 $ npm install # Or yarn install
